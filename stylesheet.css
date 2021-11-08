@@ -1,0 +1,14 @@
+body{
+    width: 500px;
+    
+    background-image: url("埼玉県鉄道博物館.jpg");
+}
+
+.sampleArea{
+    background-color: #800000;
+    padding: 5px 10px;
+}
+
+.title{
+    color: #c79e1d
+}
