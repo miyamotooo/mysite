@@ -12,3 +12,7 @@ body{
 .title{
     color: #c79e1d
 }
+
+textarea{
+    background-image: url("埼玉県鉄道博物館.jpg");
+}
